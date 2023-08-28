@@ -4,6 +4,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Savelyev Portfolio",
   description: "Portfolio web-site by Vadim Savelyev",
+  icons: [{ url: "../assets/logo.svg" }],
 };
 
 export default function RootLayout({
