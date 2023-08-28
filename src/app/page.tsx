@@ -1,4 +1,6 @@
 import Navbar from "@/components/Navbar/Navbar";
+import "./globals.css";
+
 import Hero from "@/components/Hero/Hero";
 import About from "@/components/About/About";
 import Exprerience from "@/components/Experience/Experience";
