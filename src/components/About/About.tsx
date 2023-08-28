@@ -41,7 +41,7 @@ interface AboutProps {}
 const About: FC<AboutProps> = (props: AboutProps) => {
   return (
     <>
-      <motion.div variants={textVariant(0)}>
+      <motion.div variants={textVariant()}>
         <p className={styles.sectionSubText}>Introduction</p>
         <h2 className={styles.sectionHeadText}>Overview.</h2>
       </motion.div>
