@@ -8,7 +8,7 @@ import Tech from "@/components/Tech/Tech";
 import Works from "@/components/Works/Works";
 import Feedbacks from "@/components/Feedbacks/Feedbacks";
 import Contact from "@/components/Contact/Contact";
-import StarsCanvas from "@/components/StarsCanvas/StarsCanvas";
+import { StarsCanvas } from "@/components/canvas";
 
 export default function Home() {
   return (
