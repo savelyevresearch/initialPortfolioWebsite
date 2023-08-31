@@ -143,19 +143,19 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "Dushnila bleat'",
+      "Dushnila blyat, dazhe do etogo doebalsya",
     name: "Boris Ivanov",
-    designation: "CFO",
+    designation: "Retail Director",
     company: "SWISS TIME",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+    image: "/borisAvatar.jpg",
   },
   {
     testimonial:
-      "I will get the great future in our company if you have the bunker or nuclear station",
+      "You will have a great future in our company if you have a bunker or a nuclear power plant",
     name: "Oleg Lee",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+    designation: "General Director",
+    company: "SWISS TIME",
+    image: "/olegAvatar.jpg",
   },
 ];
 
